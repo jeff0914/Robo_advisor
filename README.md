@@ -22,7 +22,7 @@
 # 環境建置說明
 1. 將檔案拉至本地端
     ```
-    git clone https://github.com/jeff0914/robo_advisor.git
+    git clone https://github.com/jeff0914/Robo_advisor.git
     ```
 2. 建立docker環境
     ```
